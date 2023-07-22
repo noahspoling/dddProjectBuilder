@@ -40,9 +40,11 @@ To use these scripts, clone this repository and run the scripts from the command
 
 ```bash
 ./build.sh
+```
 
 ## NOTE
 
 This command will make them all executable
-
-    chmod +x *.sh
+```
+chmod +x *.sh
+```
