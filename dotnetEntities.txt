@@ -1,4 +1,0 @@
-Bookstore.API
-Bookstore.Infrastructure
-Bookstore.Application
-Bookstore.Domain
